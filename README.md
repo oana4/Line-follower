@@ -3,7 +3,6 @@ The car follows a line, detected by the IR sensors, while a PID algorithm adjust
 :::info 
 
 **Author**: Oana-Roxana Lascu \
-**GitHub Project Link**: https://github.com/UPB-FILS-MA/project-lascuoana
 
 :::
 

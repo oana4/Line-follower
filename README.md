@@ -60,20 +60,14 @@ The chassis provides the structural framework for the line following car, housin
 | Device | Usage | Price |
 |--------|--------|-------|
 |[Rapspberry Pi Pico W](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)| The microcontroller | [35 RON](https://www.optimusdigital.ro/en/raspberry-pi-boards/12394-raspberry-pi-pico-w.html)|
-
-|[Car](https://cdn.ozdisan.com/ETicaret_Dosya/729231_182181.pdf)| The chasis | 75 RON](https://www.sigmanortec.ro/Kit-sasiu-Smart-Car-4WD-p136281803)|
-
 |[Car](https://cdn.ozdisan.com/ETicaret_Dosya/729231_182181.pdf)| The chasis | [75 RON](https://www.sigmanortec.ro/Kit-sasiu-Smart-Car-4WD-p136281803)|
-
-|[L298N Dual H-Bridge Motor Driver](https://components101.com/sites/default/files/component_datasheet/L298N-Motor-Driver-Datasheet.pdf) | The motor driver | [9 RON] (https://www.optimusdigital.ro/ro/drivere-de-motoare-cu-perii/145-driver-de-motoare-dual-l298n.html?search_query=l298n&results=4)
-
-|[IR sensor modules](https://www.circuits-diy.com/hw201-infrared-ir-sensor-module/) | The infrared sensors | [7 RON]
-(https://www.optimusdigital.ro/ro/senzori-senzori-optici/4514-senzor-infrarosu-de-obstacole.html?search_query=senzor+infrarosu&results=121)
+|[L298N Dual H-Bridge Motor Driver](https://components101.com/sites/default/files/component_datasheet/L298N-Motor-Driver-Datasheet.pdf) | The motor driver | [9 RON](https://www.optimusdigital.ro/ro/drivere-de-motoare-cu-perii/145-driver-de-motoare-dual-l298n.html?search_query=l298n&results=4)
+|[IR sensor modules](https://www.circuits-diy.com/hw201-infrared-ir-sensor-module/) | The infrared sensors | [7 RON](https://www.optimusdigital.ro/ro/senzori-senzori-optici/4514-senzor-infrarosu-de-obstacole.html?search_query=senzor+infrarosu&results=121)
 
 
 ## Software
 
-This projects include an initial version of code, running in Python. The code has not yet reached it's full potential, but it was used for testing of the hardware components and of the electronical realiability.
+This project includes an initial version of code, running in Python. The code has not yet reached its full potential, but it was used for the testing of hardware components and of electrical reliability.
 
 ## Links
 

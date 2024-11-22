@@ -2,7 +2,7 @@
 The car follows a line, detected by the IR sensors, while a PID algorithm adjusts motor speeds accordingly, using the motor driver.
 :::info 
 
-**Author**: Oana-Roxana Lascu \
+**Author**: Oana-Roxana Lascu
 
 :::
 
